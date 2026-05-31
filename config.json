@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedncrypt",
+        "uuid": 10059087,
+        "checksum": "go3gqg"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
